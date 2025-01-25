@@ -1,4 +1,4 @@
-// Declaração do array para armazenar os nomes dos amigos
+//Array para armazenar os nomes dos amigos
 let amigos = [];
 
 // Seleção dos elementos do DOM
